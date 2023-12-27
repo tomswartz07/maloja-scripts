@@ -4,6 +4,7 @@ from datetime import datetime
 import re
 import requests
 
+# Key associated with a load transaction, to identify them later
 key = 'tW6NZcij0EQTQRaJZ5okHjipfx4sopidf8Mr0mNl7C6sEzYcgsqulBhqnQYJFs7Q'
 
 # Define the regular expression pattern for matching track information from the mpd Log File
